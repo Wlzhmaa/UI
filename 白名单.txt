@@ -25,7 +25,7 @@ whitelist = {
 	["RedPrinceAKA"] = false,
 	["Wither_A10"] = false,
 	["uehssuuzgsii"] = false,
-	[""] = false,
+	["ZXNBYYDSKM"] = false,
 	[""] = false,
 	[""] = false
 }
